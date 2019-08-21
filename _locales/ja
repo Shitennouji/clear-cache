@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "Clear Cache",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "ワンクリックで、または [F9] key を使用して、ブラウザーのキャッシュをクリアします。",
+    "description": "Description of the extension."
+  },
+
+  "notificationTitle": {
+    "message": "やった～!",
+    "description": "Title of the cleared notification."
+  },
+
+  "notificationContent": {
+    "message": "キャッシュがクリアされました。",
+    "description": "Warns the user that the cache has been cleaned."
+  },
+
+    "preferencesHeader": {
+    "message": "環境設定",
+    "description": "Preferences section."
+  },
+
+  "preferencesTitle": {
+    "message": "クリアした後:",
+    "description": "Show options."
+  },
+
+  "reloadOption": {
+    "message": "アクティブなタブを再読み込み",
+    "description": "The reload tab option."
+  },
+
+  "notificationOption": {
+    "message": "通知を表示",
+    "description": "The option to show the notification."
+  },
+
+  "saveButton": {
+    "message": "環境設定を保存する",
+    "description": "Save button description."
+  }
+}
